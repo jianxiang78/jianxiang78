@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jianxiang78&label=Profile%20views&color=0e75b6&style=flat" alt="jianxiang78" /> </p>
 
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
@@ -24,6 +23,10 @@
 <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/> 
 </p>
 
+
+<h3 align="left">With 20+ years of experience in software development</h3>
+<h3 align="left">If you have a project or service I can help with, please get in touch.<br>
+If you are offering a remote full time job, please get in touch.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
