@@ -30,8 +30,12 @@ If you are offering a remote full time job, please get in touch.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jianxiang-sun1978" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mogohary" height="30" width="40" /></a>
-<a href="https://join.skype.com/invite/wl2cMR5I6yWw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="jianxiang78" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jianxiang-sun1978" target="blank">
+  <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="linkedin" height="40" width="40" />
+  </a>
+<a href="https://join.skype.com/invite/wl2cMR5I6yWw" target="blank">
+  <img align="center" src="https://www.vectorlogo.zone/logos/skype/skype-icon.svg" alt="jianxiang78" height="30" width="40" />
+  </a>
 </p>
 
 
