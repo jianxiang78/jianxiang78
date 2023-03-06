@@ -36,6 +36,9 @@ If you are offering a remote full time job, please get in touch.</h3>
 <a href="https://join.skype.com/invite/wl2cMR5I6yWw" target="blank">
   <img align="center" src="https://www.vectorlogo.zone/logos/skype/skype-tile.svg" alt="jianxiang78" height="40" width="40" />
   </a>
+  
+
+  <img align="center" src="mail.svg" alt="jianxiang78" height="40" />
 </p>
 
 
