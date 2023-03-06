@@ -38,7 +38,7 @@ If you are offering a remote full time job, please get in touch.</h3>
   </a>
   
 
-  <img align="center" src="mail.svg" alt="jianxiang78" height="40" />
+  <img align="center" src="https://www.redskyclouds.com/images/mail.svg" alt="jianxiang78" height="40" />
 </p>
 
 
